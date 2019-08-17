@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Acme|Signika&display=swap');
+h5{
+  font-family: 'Signika', sans-serif;
+  color: #484848 !important;
+  margin-bottom: 5px;
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  line-height: 22px !important;
+}
+.searchbox{
+	height: 450px;
+	width: 441px;
+	background-color: #ffffff;
+	position: absolute;
+	overflow: hidden;
+	margin-top: -500px;
+	border-radius: 4px;
+}
+.style{
+    font-weight: 500px;
+    margin: auto;
+}
+.section-slide{
+	position: relative;
+}
+form{
+   padding: 20px;
+}
+.btn-danger{
+   float: right;
+   margin-right: 0px !important;
+   background: #ff5a5f !important;
+   padding-top: -5px !important;
+   font-size: 17px !important;
+   margin-top: 10px;
+}
+._zzbinmg {
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% !important;
+    border-radius: 4px !important;
+    padding:  !important;
+    width: 441px !important;
+    font-weight: 600px;
+
+}
+._zzbinmg h1{
+    color: #ff5a5f;
+    margin: 10px ;
+    margin-left: 20px;
+    font-size: 35px;
+    font-family: 'Lobster', cursive;
+    padding-top: 5px !important;
+}
+.searchbox form form-control{
+    size: 20px;
+}
+.scroll-box{
+  height: 350px;
+  width: 450px;
+  overflow: scroll;
+  padding: 5px;
+}
+del{
+  color: red !important;
+}
